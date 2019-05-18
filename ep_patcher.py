@@ -1,6 +1,4 @@
 #quick and dirth ELF entrypoint patcher
-
-import os
 import sys
 import binascii
 
