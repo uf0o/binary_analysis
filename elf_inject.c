@@ -1,4 +1,4 @@
-/* courtesly borrow from Dennis Andriesse book */
+/* courtesly borrowed from Dennis Andriesse book */
 /* https://practicalbinaryanalysis.com/        */
 
 #include <stdio.h>
